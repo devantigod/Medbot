@@ -14,3 +14,5 @@
 
 
 **+clothing** : All purchasable clothing assets
+
+**+membercount** : Member count
